@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  devicename: MyString
+  device_type: MyString
+  os_type: MyString
+  service_tag: MyString
+  companyemployee: one
+
+two:
+  devicename: MyString
+  device_type: MyString
+  os_type: MyString
+  service_tag: MyString
+  companyemployee: two
